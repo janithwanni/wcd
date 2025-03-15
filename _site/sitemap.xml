@@ -1,15 +1,35 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
+    <loc>https://wcd.numbat.space/week4/index.html</loc>
+    <lastmod>2025-03-15T16:01:43.502Z</lastmod>
+  </url>
+  <url>
+    <loc>https://wcd.numbat.space/week2/index.html</loc>
+    <lastmod>2025-03-13T09:28:25.996Z</lastmod>
+  </url>
+  <url>
+    <loc>https://wcd.numbat.space/week1/tutorial/tutorial-01-sol.html</loc>
+    <lastmod>2025-03-13T09:28:25.950Z</lastmod>
+  </url>
+  <url>
     <loc>https://wcd.numbat.space/index.html</loc>
-    <lastmod>2025-02-27T00:22:01.257Z</lastmod>
+    <lastmod>2025-03-15T12:58:46.712Z</lastmod>
   </url>
   <url>
     <loc>https://wcd.numbat.space/assignments/Assignment1.html</loc>
-    <lastmod>2025-02-27T00:22:01.255Z</lastmod>
+    <lastmod>2025-03-13T09:28:25.908Z</lastmod>
   </url>
   <url>
     <loc>https://wcd.numbat.space/week1/index.html</loc>
-    <lastmod>2025-03-02T08:15:06.962Z</lastmod>
+    <lastmod>2025-03-13T09:28:25.950Z</lastmod>
+  </url>
+  <url>
+    <loc>https://wcd.numbat.space/week1/tutorial/tutorial-01.html</loc>
+    <lastmod>2025-03-13T09:28:25.950Z</lastmod>
+  </url>
+  <url>
+    <loc>https://wcd.numbat.space/week2/tutorial/tutorial-02.html</loc>
+    <lastmod>2025-03-13T09:28:25.996Z</lastmod>
   </url>
 </urlset>
